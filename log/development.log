@@ -1,0 +1,4 @@
+
+
+Processing BenchController#index (for 127.0.0.1 at 2009-11-09 15:18:46) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://127.0.0.1/]
